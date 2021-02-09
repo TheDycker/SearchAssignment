@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/SearchAssignment/static/css/main.f4884f9a.chunk.css",
+    "main.js": "/SearchAssignment/static/js/main.f46ab9fd.chunk.js",
+    "main.js.map": "/SearchAssignment/static/js/main.f46ab9fd.chunk.js.map",
+    "runtime-main.js": "/SearchAssignment/static/js/runtime-main.ac29a10c.js",
+    "runtime-main.js.map": "/SearchAssignment/static/js/runtime-main.ac29a10c.js.map",
+    "static/js/2.290988ba.chunk.js": "/SearchAssignment/static/js/2.290988ba.chunk.js",
+    "static/js/2.290988ba.chunk.js.map": "/SearchAssignment/static/js/2.290988ba.chunk.js.map",
+    "static/js/3.ce53cb45.chunk.js": "/SearchAssignment/static/js/3.ce53cb45.chunk.js",
+    "static/js/3.ce53cb45.chunk.js.map": "/SearchAssignment/static/js/3.ce53cb45.chunk.js.map",
+    "index.html": "/SearchAssignment/index.html",
+    "static/css/main.f4884f9a.chunk.css.map": "/SearchAssignment/static/css/main.f4884f9a.chunk.css.map",
+    "static/js/2.290988ba.chunk.js.LICENSE.txt": "/SearchAssignment/static/js/2.290988ba.chunk.js.LICENSE.txt",
+    "static/media/index.scss": "/SearchAssignment/static/media/bootstrap-icons.7d38a258.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ac29a10c.js",
+    "static/js/2.290988ba.chunk.js",
+    "static/css/main.f4884f9a.chunk.css",
+    "static/js/main.f46ab9fd.chunk.js"
+  ]
+}
