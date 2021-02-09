@@ -7,7 +7,7 @@ const Movies: FunctionComponent<{ searchTerm: string }> = (props) => {
     const fetchData = async () => {
       try {
         const response = await fetch(
-          "http://www.omdbapi.com/?apikey=a60d62fd&s=" + props.searchTerm
+          "https://www.omdbapi.com/?apikey=a60d62fd&s=" + props.searchTerm
         );
         const data = await response.json();
         console.log(data);
